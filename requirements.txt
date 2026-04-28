@@ -1,0 +1,14 @@
+boto3
+botocore
+numpy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+joblib
+optuna
+xgboost
+lightgbm
+brukeropusreader
+brukeropus
+s3fs
