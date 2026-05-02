@@ -43,12 +43,9 @@ Modelagem — treino e comparação de modelos preditivos
 │   ├── architecture.md
 │   ├── data_dictionary.md
 │   └── execution_plan.md
-├── config/
-│   └── s3_paths.example.env
 ├── outputs/
 │   └── .gitkeep
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
