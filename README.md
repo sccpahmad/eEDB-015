@@ -44,7 +44,11 @@ Modelagem — treino e comparação de modelos preditivos
 │   ├── data_dictionary.md
 │   └── execution_plan.md
 ├── outputs/
-│   └── .gitkeep
+│   └── carbono/
+|   └── ph/
+|   └── p/
+|   └── exbas/
+|   └── ecec/
 ├── requirements.txt
 └── README.md
 ```
